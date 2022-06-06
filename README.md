@@ -62,4 +62,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/vidith-welihinda
+[linkedin]: https://www.linkedin.com/in/vidith-welihinda/
