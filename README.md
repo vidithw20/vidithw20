@@ -5,6 +5,7 @@
 
 > I’m a passionate, responsible, self-motivated, and dedicated information technology undergraduate.
 <br />
+
 - 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **vidithw99@gmail.com**
