@@ -1,5 +1,5 @@
 
-<img align="right" height="270px" alt="guy" width="350" src="	https://noclinks.net/assets/img/softwaredev.gif" /> </a>
+<img align="right" height="270px" alt="guy" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" /> </a>
  
 ### Hi there 👋 I am Vidith Chathura Welihinda aka vidithw20
 
