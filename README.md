@@ -17,9 +17,9 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="vidith" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidithw20&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="vidith" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="vidith" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vidithw20&show_icons=true&locale=en&theme=chartreuse-dark" alt="vidith" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
@@ -55,7 +55,7 @@
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="thenuka99" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="vidithw20" />
  </a>
 </p>
 
