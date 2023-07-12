@@ -16,7 +16,7 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
- 
+
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidithw20&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="vidith" />
 </p>
