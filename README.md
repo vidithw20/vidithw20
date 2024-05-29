@@ -11,7 +11,7 @@
 - 📫 How to reach me **vidithw99@gmail.com**
 - 📝 I studied at St. Peter's College 
 - 💬 Ask me about: anything, I am happy to help
-- 🚀 My Portfolio Website  **[https://www.vidithwelihinda.me]**
+- 🚀 My Portfolio Website  **[vidithwelihinda.me]**
 <br><br><br><br>
 
 <p align="center">
@@ -64,4 +64,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/vidith-welihinda/
-[https://www.vidithwelihinda.me]: https://www.vidithwelihinda.me
+[vidithwelihinda.me]: vidithwelihinda.me
