@@ -64,4 +64,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/vidith-welihinda/
-[vidithwelihinda.me]: vidithwelihinda.me
+[vidithwelihinda.me]: www.vidithwelihinda.me
